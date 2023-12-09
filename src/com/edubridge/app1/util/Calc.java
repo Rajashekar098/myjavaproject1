@@ -6,4 +6,6 @@ public class Calc {
 }
    public int findcube(int num) {
 		return num*num*num;
+   }
+}
 
